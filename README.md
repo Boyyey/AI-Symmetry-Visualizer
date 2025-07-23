@@ -61,12 +61,6 @@ An interactive web app where you:
 
 ---
 
-## 🌟 Screenshots
-
-> _Coming soon!_
-
----
-
 ## 🤩 Why is this awesome?
 - Combines abstract algebra, geometry, computer graphics, and AI
 - Makes symmetries come alive—perfect for learning, teaching, or just admiring
