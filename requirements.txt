@@ -1,0 +1,16 @@
+streamlit
+sympy
+networkx
+matplotlib
+plotly
+trimesh
+p5py
+manim
+torch
+tensorflow
+diffusers
+palettable
+colour
+scikit-learn
+Pillow 
+streamlit-drawable-canvas 
